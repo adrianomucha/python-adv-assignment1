@@ -6,7 +6,7 @@
         your_dict.b = 2
         print your_dict ['b']
 
-        '''
+       '''
 
 class YourDict(dict):
 
